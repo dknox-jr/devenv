@@ -1,0 +1,11 @@
+{
+  "name": "@dknoxjr/devenv",
+  "version": "1.0.0",
+  "description": "npm tutorial packagejson step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Knox",
+  "license": "ISC"
+}
